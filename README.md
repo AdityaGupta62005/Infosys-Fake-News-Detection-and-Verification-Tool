@@ -1,7 +1,6 @@
 # 🛡️ TruthGuard: AI-Powered Fake News Detection & Verification Tool
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)
 ![Gemini AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
@@ -16,8 +15,6 @@
 - [Tech Stack](#-tech-stack)
 - [Installation & Setup](#-installation--setup)
 - [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
 
 ---
 
